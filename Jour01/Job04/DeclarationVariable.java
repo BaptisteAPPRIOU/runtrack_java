@@ -1,5 +1,5 @@
 package Jour01.Job04;
-
+ 
 public class DeclarationVariable {
     public static void main(String[] args) {
         int a, b, c;
